@@ -2,7 +2,7 @@ namespace consolereadjsonfile
 {
     public class Punch
     {
-        public long Id { get; set; }
+        // public long Id { get; set; }
         public string slno { get; set; }
         public string pdate { get; set; }
         public string pday { get; set; }
