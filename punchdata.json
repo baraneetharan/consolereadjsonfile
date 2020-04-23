@@ -1,0 +1,44 @@
+[
+    {
+        "id": 101,
+        "name": "emp1",
+        "dept": "dept1",
+        "Punchs": [
+            {
+                "slno": 1,
+                "pdate": "01/04/2020",
+                "pday": "wednesday",
+                "intime": "9.00AM",
+                "outtime": "6.20PM"
+            },
+            {
+                "slno": 2,
+                "pdate": "02/04/2020",
+                "pday": "thrusday",
+                "intime": "9.00AM",
+                "outtime": "6.20PM"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "emp2",
+        "dept": "dept2",
+        "Punchs": [
+            {
+                "slno": 1,
+                "pdate": "01/04/2020",
+                "pday": "wednesday",
+                "intime": "9.00AM",
+                "outtime": "6.20PM"
+            },
+            {
+                "slno": 2,
+                "pdate": "02/04/2020",
+                "pday": "thrusday",
+                "intime": "9.00AM",
+                "outtime": "6.20PM"
+            }
+        ]
+    }
+]
